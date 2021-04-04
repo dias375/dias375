@@ -3,9 +3,9 @@
 Hello! My name is Renan Dias and I am an enginner working in back-end web development.
 ## 🧰 LanguagesAndTools
 - **Java**
-- **Spring Framework (Boot, MVC and Data)**
+- **Spring (Boot, MVC and Data)**
 - JUnit
 - Python
 - Flutter
-- SQL and NoSQL databases
+- SQL and NoSQL
 - Git
