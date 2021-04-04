@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&color=timeGradient)
 
 # **Renan Dias**
-###### **Back-end developer & MSc Mechanical Engineer**
+## **Back-end developer & MSc Mechanical Engineer**
  ___
 ## 🧰 Languages and Tools:
 
