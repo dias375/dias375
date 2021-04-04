@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=About%Me&fontSize=30&fontAlign=30&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
 
 ## 🧰 Languages and Tools:
 - Java
