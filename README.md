@@ -6,6 +6,6 @@
 ## 🧰 Languages and Tools:
 
 
-- 🔭 **Java**
+- Java
 - Spring Framework (Boot, MVC and Data)
  ___
