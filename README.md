@@ -2,8 +2,8 @@
 ## 👋 AboutMe
 Hello! My name is Renan Dias and I am an enginner working in back-end web development.
 ## 🧰 LanguagesAndTools
-- **Java** 👑
-- **Spring (Boot, MVC and Data)**
+- Java 👑
+- Spring (Boot, MVC and Data)
 - JUnit
 - Maven
 - Python
