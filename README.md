@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Renan%Dias)
 
 ## 🧰 Languages and Tools:
 - Java
