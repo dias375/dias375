@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
-## 👋 AboutMe
-Hello! My name is Renan Dias and I am an enginner working in back-end web development.
-## 🧰 LanguagesAndTools
+## 👋 aboutMe
+Back-end developer focused on REST APIs using Java and Spring as main technologies.
+
+Mechanical engineer with experience in teaching and researching control, automation and materials engineering.
+
+## 🧰 Languages, frameworks and tools
 - Java 👑
 - Spring Boot
-- JUnit
 - Maven
-- Python
-- Flutter
+- Gradle
 - SQL
+- JUnit
+- Mockito
 - Git
