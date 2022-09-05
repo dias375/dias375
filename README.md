@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
 ## 👋 aboutMe
 A versatile professional with years of combined experience as a Back-end Developer for Financial Institutions and as an Automation and Mechanical Engineering Professor for Universities.
 
