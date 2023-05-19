@@ -6,12 +6,5 @@ Most of my projects in software development involve Rest APIs using Java, Spring
 I also have experience working with Python for automation solutions and in companies that implemented Agile and SCRUM methodologies with CI/CD, Clean Code and SOLID as requirements.
 
 ## 🧰 Languages, frameworks and tools
-- Java 👑
-- Spring Boot
-- Maven
-- Gradle
-- SQL
-- JUnit
-- Mockito
-- Jenkins
-- Git
+- **👑 Java, Spring, SQL 👑**
+- JavaScript, Python, GO, Dart, Jersey, NodeJS, React, Git, HTML, CSS, Maven, Gradle, JUnit, Mockito, MyBatis, Jenkins, Kafka, Bash, Docker, Kubernetes, Azure, AWS, Cloud, SonarQube, Grafana, Jira, Artifactory, CI/CD, TDD, Agile, SCRUM, SOLID, Rest APIs, IntelliJ, pgAdmin, VSCode, Postman.
