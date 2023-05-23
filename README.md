@@ -7,4 +7,4 @@ I also have experience working with Python for automation solutions and in compa
 
 ## 🧰 Languages, frameworks and tools
 - **👑 Java, Spring, SQL 👑**
-- JavaScript, Python, GO, Dart, Jersey, NodeJS, React, Git, HTML, CSS, Maven, Gradle, JUnit, Mockito, MyBatis, Jenkins, Kafka, Bash, Docker, Kubernetes, Azure, AWS, Cloud, SonarQube, Grafana, Jira, Artifactory, CI/CD, TDD, Agile, SCRUM, SOLID, Rest APIs, IntelliJ, pgAdmin, VSCode, Postman.
+- Python, JavaScript, Dart, Go, Jersey, NodeJS, React, Git, HTML, CSS, Maven, Gradle, JUnit, Mockito, MyBatis, Jenkins, Tomcat, Kafka, Bash, Docker, Kubernetes, Azure, AWS, Cloud, SonarQube, Grafana, Jira, Artifactory, CI/CD, TDD, Agile, SCRUM, SOLID, Rest APIs, IntelliJ, pgAdmin, VSCode, Postman.
