@@ -1,5 +1,5 @@
 ## 👋 aboutMe
-A versatile professional with years of combined experience as a Back-end Developer for Financial Institutions and as an Automation and Mechanical Engineering Professor for Universities.
+A versatile professional with years of combined experience as a Back-end Developer for the Payment Industry and as an Automation Engineer.
 
 Most of my projects in software development involve Rest APIs using Java, Spring Boot and SQL as main stack, combined with a multitude of other tools and frameworks such as Git, Gradle, Maven, JUnit, Mockito and Jenkins.
 
