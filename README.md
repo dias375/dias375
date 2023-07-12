@@ -1,11 +1,11 @@
 ## 👋 aboutMe
-A versatile professional with years of combined experience as a Back-end Developer for the Payment Industry and as an Automation Engineer.
+I am a versatile professional with years of experience in development for the Financial, Banking and Payments industry. In my projects, I specialize in building microservices using Java, Spring Boot, and SQL as the main stack. Additionally, I have expertise in various other tools and frameworks like Git, Gradle, Maven, JUnit, Mockito, and Jenkins.
 
-Most of my projects in software development involve Rest APIs using Java, Spring Boot and SQL as main stack, combined with a multitude of other tools and frameworks such as Git, Gradle, Maven, JUnit, Mockito and Jenkins.
+In addition to my skills in Java, I also have experience working with Javascript and Python. I have had the opportunity to work in companies that implemented Agile and SCRUM methodologies with CI/CD, Clean Code, and SOLID principles as requirements.
 
-I also have experience working with Python for automation solutions and in companies that implemented Agile and SCRUM methodologies with CI/CD, Clean Code and SOLID as requirements.
+I am passionate about my work and thrive in collaborative environments. My experience and expertise make me confident in my ability to contribute to any team or project in a meaningful way.
 
 ## 🧰 Languages, frameworks and tools
 **👑 Java, Spring, SQL 👑**
 
-Python, JavaScript, Dart, Go, Jersey, NodeJS, React, Git, HTML, CSS, Maven, Gradle, JUnit, Mockito, MyBatis, Jenkins, Tomcat, Kafka, Bash, Docker, Kubernetes, Azure, AWS, Cloud, SonarQube, Grafana, Jira, Artifactory, CI/CD, TDD, Agile, SCRUM, SOLID, Rest APIs, IntelliJ, pgAdmin, VSCode, Postman.
+Python, JavaScript, PostgreSQL, PL/SQL, MySQL, Jersey, NodeJS, React, Git, HTML, CSS, Maven, Gradle, JUnit, Mockito, MyBatis, Jenkins, Tomcat, Kafka, Bash, Docker, Kubernetes, Azure, AWS, EC2, RDS, EKS, ECR, Cloud, SonarQube, Fortify, Grafana, Jira, Artifactory, CI/CD, TDD, Agile, SCRUM, SOLID, Rest APIs, IntelliJ, pgAdmin, VSCode, Postman.
