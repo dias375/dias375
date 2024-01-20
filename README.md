@@ -1,5 +1,5 @@
 ## 👋 aboutMe
-I am a versatile professional with years of experience in development working for fintechs in the banking, payments and trading industries.
+I am a professional software developer with experience working for fintechs in the banking, payments and trading industries.
 Most of my projects were building and maintaining Java services connected to SQL databases to handle data from multiple sources (API, messaging, streaming).
 
 ## 🧰 Stack
